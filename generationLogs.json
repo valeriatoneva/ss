@@ -1,0 +1,134 @@
+[
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4351514Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4351543Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4352017Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4352021Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4364553Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.436457Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4364938Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4364941Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4376385Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4376399Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4376772Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-15T07:55:02.4376775Z"
+  }
+]
