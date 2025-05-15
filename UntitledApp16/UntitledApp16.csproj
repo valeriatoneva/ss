@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>UntitledApp16</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IgniteUI.Blazor" Version="24.2.85" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Pages/Grid.razor.css" CssScope="grid-scope" />
+    <None Update="Pages/H_Grid.razor.css" CssScope="h_grid-scope" />
+    <None Update="Pages/T_Grid.razor.css" CssScope="t_grid-scope" />
+  </ItemGroup>
+</Project>
