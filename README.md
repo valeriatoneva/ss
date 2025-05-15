@@ -1,31 +1,36 @@
-# untitled-app (16)
+# UntitledApp16
 
-This project was generated with [App Builder Code Gen](https://www.appbuilder.dev/platform).
+This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
 
-## Development server
 
-Run `npm start` to build the application, start a web server and open the application in the default browser. The application will open in `http://localhost:4200/` by default.
+## Run in Visual Studio 2022
 
-## Build
+- open the project in **Visual Studio 2022**
 
-Run `npm run build` to build the application into an output directory.
+- press **Start** (**F5**)
 
-## Running unit tests
 
-Run `npm test` to execute the unit tests via [Karma](https://karma-runner.github.io). Runs all `.spec.ts` files under `./src` folder.
+## Run in VS Code
 
-## Running code style checks
+NOTE: Running the app requires [.NET 9.0](https://dotnet.microsoft.com/en-us/download) to be installed.
 
-Run `npm run lint` to execute the code styling rules for the project.
+- open this folder in **VS Code**
 
-## Licensing
+- open a terminal window
 
-See the [License FAQ and Installation documentation](https://www.infragistics.com/products/ignite-ui-angular/angular/components/general/ignite-ui-licensing) for information on how to upgrade to the full licensed package, if the project is using a Trial version of Ignite UI for Angular, and how to setup your environment and CI to use our licensed npm feed.
+- use this command to run:
+```dotnet run```
 
-Alternatively run `npm run infragistics-login` for a guided login to our licensed feed.
+- wait for message:
+**Now listening on: https://localhost:5000 and http://localhost:5001**
 
-## Additional resources
+- open **https://localhost:5000 OR http://localhost:5001** in your browser
 
-- Ignite UI Angular Schematics were used to generate this project and are available for additional commands within the project. For more details and how to use them, refer to [Angular Schematics & Ignite UI CLI](https://www.infragistics.com/products/ignite-ui-angular/angular/components/general/cli-overview).
+  _Ports are configured by "applicationUrl" specified in launch.Settings.json file and could be subject to change._
 
-- [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular) - to learn more about the product or to dive into component specifics and showcases.
+
+## Resources
+
+- [Documentation and Samples](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-getting-started)
+- [Infragistics NuGet Feed](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-nuget-feed)
+- [Razor Syntax](https://learn.microsoft.com/en-us/aspnet/core/blazor/components/?view=aspnetcore-9.0#razor-syntax)
